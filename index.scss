@@ -1,0 +1,25 @@
+.mx-divider {
+  display: flex;
+  white-space: nowrap;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: var(--mx-colors-gray-500);
+
+  &::before,
+  &::after {
+    content: "";
+    position: relative;
+    top: 50%;
+    width: 50%;
+    border-top: 1px solid var(--mx-colors-gray-200);
+    transform: translateY(50%);
+  }
+
+  &::before {
+    margin-right: 1rem;
+  }
+
+  &::after {
+    margin-left: 1rem;
+  }
+}
