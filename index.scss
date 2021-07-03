@@ -1,8 +1,8 @@
 .mx-divider {
   display: flex;
   white-space: nowrap;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: var(--mx-space-4);
+  margin-bottom: var(--mx-space-4);
   color: var(--mx-colors-gray-500);
 
   &::before,
@@ -16,10 +16,10 @@
   }
 
   &::before {
-    margin-right: 1rem;
+    margin-right: var(--mx-space-4);
   }
 
   &::after {
-    margin-left: 1rem;
+    margin-left: var(--mx-space-4);
   }
 }
