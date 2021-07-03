@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Divider basic 1`] = `
+<div>
+  <taro-view-core
+    class="mx-divider"
+  />
+</div>
+`;
