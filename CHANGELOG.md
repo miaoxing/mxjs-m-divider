@@ -1,3 +1,25 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.1...v0.1.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.59.0` ([f614555](https://github.com/miaoxing/mxjs-m-divider/commit/f61455553622f7033a546c2d54ca66a2e0ec6440))
+
+
+### Features
+
+* **taro:** 限制 taro 为 3.3.x，3.4 有 BREAKING CHANGES ([a2dd87c](https://github.com/miaoxing/mxjs-m-divider/commit/a2dd87c2e6e1325ac8ef800e5d4b301ba274f21e))
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([9110cd3](https://github.com/miaoxing/mxjs-m-divider/commit/9110cd3eaff2aa22dd29bbeb72c543351012d147))
+* 更新 taro 到 `^3.3.20` ([e89c9bb](https://github.com/miaoxing/mxjs-m-divider/commit/e89c9bbbeeef0fcc9ef982a3e73a7edcee3d490b))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.0...v0.1.1) (2021-10-28)
 
 
