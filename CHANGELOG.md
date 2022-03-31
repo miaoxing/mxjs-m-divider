@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([b69d40d](https://github.com/miaoxing/mxjs-m-divider/commit/b69d40d6a8c4c53c8f02c1d091676c4697069440))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
