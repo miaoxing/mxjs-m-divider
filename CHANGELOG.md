@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.5...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([f9dc239](https://github.com/miaoxing/mxjs-m-divider/commit/f9dc239fc28d8a3232fd2e3b6fa9aa86c29410bd))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.5](https://github.com/miaoxing/mxjs-m-divider/compare/v0.1.4...v0.1.5) (2022-06-01)
 
 
