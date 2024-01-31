@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-m-divider/compare/v1.1.6...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([747992c](https://github.com/miaoxing/mxjs-m-divider/commit/747992c1407f37ab77f76b12c952a34b28269f03))
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-m-divider/compare/v1.1.5...v1.1.6) (2024-01-08)
 
 
